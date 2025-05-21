@@ -1,6 +1,6 @@
 ﻿# Sports Performance Analysis using YOLO model & Kalman Filter
 
-**Player Detection and Tracking in Tennis Matches** 
+## **Player Detection and Tracking in Tennis Matches** 
 
 **1. Introduction**
 
@@ -73,7 +73,7 @@ The combination of YOLOv4 and Kalman Filtering demonstrated effective player det
 - **Fine-tuning YOLOv4 with additional training data**.
 - **Implementing Deep SORT for more robust tracking**.
 - **Incorporating optical flow techniques for better motion prediction**.
-# **Report - Shot Classification and Analysis**
+## **Shot Classification and Analysis**
 
 ## **1. Introduction**
 Shot classification and analysis in tennis is crucial for understanding player performance, strategy, and game patterns. This study employs machine learning techniques, specifically neural networks, to classify tennis shots using video and CSV datasets. The approach integrates feature extraction, data preprocessing, model training, and evaluation.
@@ -138,7 +138,7 @@ A function is implemented to predict shots in a new match video. It:
 ## **9. Conclusion**
 This study demonstrates a robust approach to classifying tennis shots using video-based motion analysis and machine learning. 
 
-**Report - Player Movement and Positioning Analysis**
+## **Player Movement and Positioning Analysis**
 ### **1. Introduction**
 Player movement and positioning are crucial aspects of performance analysis in tennis. Understanding how a player moves across the court, their speed, acceleration, and distance covered provides insights into their agility, endurance, and tactical decisions. This report presents an analysis of player movement using video processing and machine learning techniques, leveraging pose estimation for position tracking.
 ### **2. Methodology**
@@ -174,7 +174,7 @@ To analyze movement patterns, recorded player positions are compared with predef
 ### **4. Conclusion**
 The analysis of player movement and positioning provides valuable insights into court coverage, mobility, and tactical responses during a match.
 
-**Report - Match Strategy and Performance Metrics** 
+## **Match Strategy and Performance Metrics** 
 ## **1. Introduction**
 Analyzing match strategy and performance metrics is crucial for understanding player effectiveness, strengths, and areas for improvement. This report details the methodology used to extract key performance insights, including shot events, distribution, efficiency, and player performance under pressure.
 ## **2. Methodology**
