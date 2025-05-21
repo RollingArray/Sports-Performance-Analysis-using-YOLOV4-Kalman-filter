@@ -1,6 +1,6 @@
 ﻿# Sports Performance Analysis
 
-**Report - Player Detection and Tracking in Tennis Matches** 
+**Player Detection and Tracking in Tennis Matches** 
 
 **1. Introduction**
 
@@ -212,7 +212,5 @@ A scatter plot of wrist positions was generated to analyze shot placements and d
 To assess player performance under pressure, a shot intensity metric was computed based on positional changes. High-intensity shots were identified, highlighting critical moments where precision and consistency play a major role.
 ## **7. Conclusion**
 This analysis provides a structured approach to evaluating match strategy and player efficiency.
-
---End of report--
 
 
