@@ -1,4 +1,4 @@
-﻿# Sports Performance Analysis
+﻿# Sports Performance Analysis using YOLO model & Kalman Filter
 
 **Player Detection and Tracking in Tennis Matches** 
 
